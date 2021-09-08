@@ -1,0 +1,6 @@
+Alvin, 87, 98
+Amar, 100, 100
+Arun, 75, 93
+Babu, 87, 96
+Cathy, 89, 98
+Kaai, 100, 98
